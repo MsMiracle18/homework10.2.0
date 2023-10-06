@@ -1,0 +1,522 @@
+[
+  {
+    "tags": [
+      "change",
+      "deep-thoughts",
+      "thinking",
+      "world"
+    ],
+    "author": "Albert Einstein",
+    "quote": "“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”"
+  },
+  {
+    "tags": [
+      "inspirational",
+      "life",
+      "live",
+      "miracle",
+      "miracles"
+    ],
+    "author": "Albert Einstein",
+    "quote": "“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”"
+  },
+  {
+    "tags": [
+      "adulthood",
+      "success",
+      "value"
+    ],
+    "author": "Albert Einstein",
+    "quote": "“Try not to become a man of success. Rather become a man of value.”"
+  },
+  {
+    "tags": [
+      "humor",
+      "obvious",
+      "simile"
+    ],
+    "author": "Steve Martin",
+    "quote": "“A day without sunshine is like, you know, night.”"
+  },
+    {
+      "tags": ["change", "deep-thoughts", "thinking", "world"],
+      "author": "Albert Einstein",
+      "quote": "The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking."
+    },
+    {
+      "tags": ["abilities", "choices"],
+      "author": "John C. Maxwell",
+      "quote": "You are the only person on earth who can use your ability."
+    },
+    {
+      "tags": ["inspirational", "life", "live", "miracle", "miracles"],
+      "author": "Pablo Picasso",
+      "quote": "I am always doing that which I cannot do, in order that I may learn how to do it."
+    },
+    {
+      "tags": ["life", "love"],
+      "author": "Maya Angelou",
+      "quote": "Life is pure adventure, and the sooner we realize that, the quicker we will be able to treat life as art."
+    },
+    {
+      "tags": ["inspirational", "success"],
+      "author": "Winston S. Churchill",
+      "quote": "Success is walking from failure to failure with no loss of enthusiasm."
+    },
+    {
+      "tags": ["wisdom", "life"],
+      "author": "Buddha",
+      "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."
+    },
+    {
+      "tags": ["wisdom", "mind", "learning"],
+      "author": "Leonardo da Vinci",
+      "quote": "Learning never exhausts the mind."
+    },
+    {
+      "tags": ["inspirational", "perseverance", "success"],
+      "author": "Napoleon Hill",
+      "quote": "The starting point of all achievement is desire."
+    },
+    {
+      "tags": ["inspirational", "motivation", "success"],
+      "author": "Zig Ziglar",
+      "quote": "You don’t have to be great to start, but you have to start to be great."
+    },
+    {
+      "tags": ["life", "success", "failure"],
+      "author": "Robert F. Kennedy",
+      "quote": "Only those who dare to fail greatly can ever achieve greatly."
+    },
+    {
+      "tags": ["inspirational", "life", "positive"],
+      "author": "Lou Holtz",
+      "quote": "It’s not the load that breaks you, it’s the way you carry it."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Aristotle",
+      "quote": "The more you know, the more you realize you don’t know."
+    },
+    {
+      "tags": ["success", "hard-work", "inspirational"],
+      "author": "Thomas A. Edison",
+      "quote": "Opportunity is missed by most people because it is dressed in overalls and looks like work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Socrates",
+      "quote": "An unexamined life is not worth living."
+    },
+    {
+      "tags": ["inspirational", "success", "motivation"],
+      "author": "Vince Lombardi",
+      "quote": "The only place success comes before work is in the dictionary."
+    },
+    {
+      "tags": ["inspirational", "life", "happiness"],
+      "author": "Ralph Waldo Emerson",
+      "quote": "For every minute you are angry you lose sixty seconds of happiness."
+    },
+    {
+      "tags": ["success", "hard-work", "determination"],
+      "author": "Colin Powell",
+      "quote": "A dream doesn’t become reality through magic; it takes sweat, determination, and hard work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Lao Tzu",
+      "quote": "The journey of a thousand miles begins with one step."
+    },
+    {
+      "tags": ["inspirational", "life", "positive"],
+      "author": "Lou Holtz",
+      "quote": "It’s not the load that breaks you, it’s the way you carry it."
+    },
+    {
+      "tags": ["success", "hard-work", "inspirational"],
+      "author": "Thomas A. Edison",
+      "quote": "Opportunity is missed by most people because it is dressed in overalls and looks like work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Socrates",
+      "quote": "An unexamined life is not worth living."
+    },
+    {
+      "tags": ["inspirational", "success", "motivation"],
+      "author": "Vince Lombardi",
+      "quote": "The only place success comes before work is in the dictionary."
+    },
+    {
+      "tags": ["inspirational", "life", "happiness"],
+      "author": "Ralph Waldo Emerson",
+      "quote": "For every minute you are angry you lose sixty seconds of happiness."
+    },
+    {
+      "tags": ["success", "hard-work", "determination"],
+      "author": "Colin Powell",
+      "quote": "A dream doesn’t become reality through magic; it takes sweat, determination, and hard work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Lao Tzu",
+      "quote": "The journey of a thousand miles begins with one step."
+    },
+    {
+      "tags": ["inspirational", "life", "positive"],
+      "author": "Lou Holtz",
+      "quote": "It’s not the load that breaks you, it’s the way you carry it."
+    },
+    {
+      "tags": ["success", "hard-work", "inspirational"],
+      "author": "Thomas A. Edison",
+      "quote": "Opportunity is missed by most people because it is dressed in overalls and looks like work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Socrates",
+      "quote": "An unexamined life is not worth living."
+    },
+    {
+      "tags": ["inspirational", "success", "motivation"],
+      "author": "Vince Lombardi",
+      "quote": "The only place success comes before work is in the dictionary."
+    },
+    {
+      "tags": ["inspirational", "life", "happiness"],
+      "author": "Ralph Waldo Emerson",
+      "quote": "For every minute you are angry you lose sixty seconds of happiness."
+    },
+    {
+      "tags": ["success", "hard-work", "determination"],
+      "author": "Colin Powell",
+      "quote": "A dream doesn’t become reality through magic; it takes sweat, determination, and hard work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Lao Tzu",
+      "quote": "The journey of a thousand miles begins with one step."
+    },
+    {
+      "tags": ["inspirational", "life", "positive"],
+      "author": "Lou Holtz",
+      "quote": "It’s not the load that breaks you, it’s the way you carry it."
+    },
+    {
+      "tags": ["success", "hard-work", "inspirational"],
+      "author": "Thomas A. Edison",
+      "quote": "Opportunity is missed by most people because it is dressed in overalls and looks like work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Socrates",
+      "quote": "An unexamined life is not worth living."
+    },
+    {
+      "tags": ["inspirational", "success", "motivation"],
+      "author": "Vince Lombardi",
+      "quote": "The only place success comes before work is in the dictionary."
+    },
+    {
+      "tags": ["inspirational", "life", "happiness"],
+      "author": "Ralph Waldo Emerson",
+      "quote": "For every minute you are angry you lose sixty seconds of happiness."
+    },
+    {
+      "tags": ["success", "hard-work", "determination"],
+      "author": "Colin Powell",
+      "quote": "A dream doesn’t become reality through magic; it takes sweat, determination, and hard work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Lao Tzu",
+      "quote": "The journey of a thousand miles begins with one step."
+    },
+    {
+      "tags": ["inspirational", "life", "positive"],
+      "author": "Lou Holtz",
+      "quote": "It’s not the load that breaks you, it’s the way you carry it."
+    },
+    {
+      "tags": ["success", "hard-work", "inspirational"],
+      "author": "Thomas A. Edison",
+      "quote": "Opportunity is missed by most people because it is dressed in overalls and looks like work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Socrates",
+      "quote": "An unexamined life is not worth living."
+    },
+    {
+      "tags": ["inspirational", "success", "motivation"],
+      "author": "Vince Lombardi",
+      "quote": "The only place success comes before work is in the dictionary."
+    },
+    {
+      "tags": ["inspirational", "life", "happiness"],
+      "author": "Ralph Waldo Emerson",
+      "quote": "For every minute you are angry you lose sixty seconds of happiness."
+    },
+    {
+      "tags": ["success", "hard-work", "determination"],
+      "author": "Colin Powell",
+      "quote": "A dream doesn’t become reality through magic; it takes sweat, determination, and hard work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Lao Tzu",
+      "quote": "The journey of a thousand miles begins with one step."
+    },
+    {
+      "tags": ["inspirational", "life", "positive"],
+      "author": "Lou Holtz",
+      "quote": "It’s not the load that breaks you, it’s the way you carry it."
+    },
+    {
+      "tags": ["success", "hard-work", "inspirational"],
+      "author": "Thomas A. Edison",
+      "quote": "Opportunity is missed by most people because it is dressed in overalls and looks like work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Socrates",
+      "quote": "An unexamined life is not worth living."
+    },
+    {
+      "tags": ["inspirational", "success", "motivation"],
+      "author": "Vince Lombardi",
+      "quote": "The only place success comes before work is in the dictionary."
+    },
+    {
+      "tags": ["inspirational", "life", "happiness"],
+      "author": "Ralph Waldo Emerson",
+      "quote": "For every minute you are angry you lose sixty seconds of happiness."
+    },
+    {
+      "tags": ["success", "hard-work", "determination"],
+      "author": "Colin Powell",
+      "quote": "A dream doesn’t become reality through magic; it takes sweat, determination, and hard work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Lao Tzu",
+      "quote": "The journey of a thousand miles begins with one step."
+    },
+    {
+      "tags": ["inspirational", "life", "positive"],
+      "author": "Lou Holtz",
+      "quote": "It’s not the load that breaks you, it’s the way you carry it."
+    },
+    {
+      "tags": ["success", "hard-work", "inspirational"],
+      "author": "Thomas A. Edison",
+      "quote": "Opportunity is missed by most people because it is dressed in overalls and looks like work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Socrates",
+      "quote": "An unexamined life is not worth living."
+    },
+    {
+      "tags": ["inspirational", "success", "motivation"],
+      "author": "Vince Lombardi",
+      "quote": "The only place success comes before work is in the dictionary."
+    },
+    {
+      "tags": ["inspirational", "life", "happiness"],
+      "author": "Ralph Waldo Emerson",
+      "quote": "For every minute you are angry you lose sixty seconds of happiness."
+    },
+    {
+      "tags": ["success", "hard-work", "determination"],
+      "author": "Colin Powell",
+      "quote": "A dream doesn’t become reality through magic; it takes sweat, determination, and hard work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Lao Tzu",
+      "quote": "The journey of a thousand miles begins with one step."
+    },
+    {
+      "tags": ["inspirational", "life", "positive"],
+      "author": "Lou Holtz",
+      "quote": "It’s not the load that breaks you, it’s the way you carry it."
+    },
+    {
+      "tags": ["success", "hard-work", "inspirational"],
+      "author": "Thomas A. Edison",
+      "quote": "Opportunity is missed by most people because it is dressed in overalls and looks like work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Socrates",
+      "quote": "An unexamined life is not worth living."
+    },
+    {
+      "tags": ["inspirational", "success", "motivation"],
+      "author": "Vince Lombardi",
+      "quote": "The only place success comes before work is in the dictionary."
+    },
+    {
+      "tags": ["inspirational", "life", "happiness"],
+      "author": "Ralph Waldo Emerson",
+      "quote": "For every minute you are angry you lose sixty seconds of happiness."
+    },
+    {
+      "tags": ["success", "hard-work", "determination"],
+      "author": "Colin Powell",
+      "quote": "A dream doesn’t become reality through magic; it takes sweat, determination, and hard work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Lao Tzu",
+      "quote": "The journey of a thousand miles begins with one step."
+    },
+    {
+      "tags": ["inspirational", "life", "positive"],
+      "author": "Lou Holtz",
+      "quote": "It’s not the load that breaks you, it’s the way you carry it."
+    },
+    {
+      "tags": ["success", "hard-work", "inspirational"],
+      "author": "Thomas A. Edison",
+      "quote": "Opportunity is missed by most people because it is dressed in overalls and looks like work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Socrates",
+      "quote": "An unexamined life is not worth living."
+    },
+    {
+      "tags": ["inspirational", "success", "motivation"],
+      "author": "Vince Lombardi",
+      "quote": "The only place success comes before work is in the dictionary."
+    },
+    {
+      "tags": ["inspirational", "life", "happiness"],
+      "author": "Ralph Waldo Emerson",
+      "quote": "For every minute you are angry you lose sixty seconds of happiness."
+    },
+    {
+      "tags": ["success", "hard-work", "determination"],
+      "author": "Colin Powell",
+      "quote": "A dream doesn’t become reality through magic; it takes sweat, determination, and hard work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Lao Tzu",
+      "quote": "The journey of a thousand miles begins with one step."
+    },
+    {
+      "tags": ["inspirational", "life", "positive"],
+      "author": "Lou Holtz",
+      "quote": "It’s not the load that breaks you, it’s the way you carry it."
+    },
+    {
+      "tags": ["success", "hard-work", "inspirational"],
+      "author": "Thomas A. Edison",
+      "quote": "Opportunity is missed by most people because it is dressed in overalls and looks like work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Socrates",
+      "quote": "An unexamined life is not worth living."
+    },
+    {
+      "tags": ["inspirational", "success", "motivation"],
+      "author": "Vince Lombardi",
+      "quote": "The only place success comes before work is in the dictionary."
+    },
+    {
+      "tags": ["inspirational", "life", "happiness"],
+      "author": "Ralph Waldo Emerson",
+      "quote": "For every minute you are angry you lose sixty seconds of happiness."
+    },
+    {
+      "tags": ["success", "hard-work", "determination"],
+      "author": "Colin Powell",
+      "quote": "A dream doesn’t become reality through magic; it takes sweat, determination, and hard work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Lao Tzu",
+      "quote": "The journey of a thousand miles begins with one step."
+    },
+    {
+      "tags": ["inspirational", "life", "positive"],
+      "author": "Lou Holtz",
+      "quote": "It’s not the load that breaks you, it’s the way you carry it."
+    },
+    {
+      "tags": ["success", "hard-work", "inspirational"],
+      "author": "Thomas A. Edison",
+      "quote": "Opportunity is missed by most people because it is dressed in overalls and looks like work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Socrates",
+      "quote": "An unexamined life is not worth living."
+    },
+    {
+      "tags": ["inspirational", "success", "motivation"],
+      "author": "Vince Lombardi",
+      "quote": "The only place success comes before work is in the dictionary."
+    },
+    {
+      "tags": ["inspirational", "life", "happiness"],
+      "author": "Ralph Waldo Emerson",
+      "quote": "For every minute you are angry you lose sixty seconds of happiness."
+    },
+    {
+      "tags": ["success", "hard-work", "determination"],
+      "author": "Colin Powell",
+      "quote": "A dream doesn’t become reality through magic; it takes sweat, determination, and hard work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Lao Tzu",
+      "quote": "The journey of a thousand miles begins with one step."
+    },
+    {
+      "tags": ["inspirational", "life", "positive"],
+      "author": "Lou Holtz",
+      "quote": "It’s not the load that breaks you, it’s the way you carry it."
+    },
+    {
+      "tags": ["success", "hard-work", "inspirational"],
+      "author": "Thomas A. Edison",
+      "quote": "Opportunity is missed by most people because it is dressed in overalls and looks like work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Socrates",
+      "quote": "An unexamined life is not worth living."
+    },
+    {
+      "tags": ["inspirational", "success", "motivation"],
+      "author": "Vince Lombardi",
+      "quote": "The only place success comes before work is in the dictionary."
+    },
+    {
+      "tags": ["inspirational", "life", "happiness"],
+      "author": "Ralph Waldo Emerson",
+      "quote": "For every minute you are angry you lose sixty seconds of happiness."
+    },
+    {
+      "tags": ["success", "hard-work", "determination"],
+      "author": "Colin Powell",
+      "quote": "A dream doesn’t become reality through magic; it takes sweat, determination, and hard work."
+    },
+    {
+      "tags": ["wisdom", "life", "experience"],
+      "author": "Lao Tzu",
+      "quote": "The journey of a thousand miles begins with one step."
+    },
+    {
+      "tags": ["inspirational", "life", "positive"],
+      "author": "Lou Holtz",
+      "quote": "It’s not the load that breaks you, it’s the way you carry it."
+    }
+  ]
+
